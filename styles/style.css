@@ -1,4 +1,9 @@
 .carousel-inner > .carousel-item > img {
   width: 640px;
   height: 700px;
+  filter: brightness(60%);
+}
+
+.get-started-btn {
+  background-color: #289bde;
 }
